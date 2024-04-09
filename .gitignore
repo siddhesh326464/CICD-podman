@@ -1,0 +1,11 @@
+__pycache__
+/env
+*.env
+/*_env
+*.db
+.vscode
+**/migrations/version
+runuvi.sh
+node_modules
+notes.txt
+static/css/app.css
